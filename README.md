@@ -25,23 +25,23 @@ A command-line **streaming service simulator** written in C++, featuring ASCII-b
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/streaming-service-simulator.git
+    git clone https://github.com/your-username/streaming-service-simulator.git   https://github.com/BaltazarSR/Xtreaming.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd streaming-service-simulator
+    cd Xtreaming
     ```
 
 3. **Compile the project**:
 
     ```bash
-    g++ -o streaming_simulator main.cpp Movie.cpp Series.cpp Episode.cpp
+    g++ -o Xtreaming Streaming.cpp Video.cpp Serie.cpp Video.hpp Serie.hpp
     ```
 
 4. **Run the executable**:
 
     ```bash
-    ./streaming_simulator
+    ./Xtreaming
     ```
